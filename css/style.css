@@ -1,0 +1,33 @@
+body {
+    font-family: 'Kalam', cursive;
+    background-color: #00E5ED;
+}
+
+h1 {
+    font-family: 'Merienda', cursive;
+    background-color: #004FED;
+    color: #00EDA5;
+    text-align: center;
+    padding: 20px;
+    margin-top: 0;
+}
+
+p {
+    color:#0004ED
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #009AEE;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    border-top: 5px solid #0004ED;
+}
